@@ -1,0 +1,15 @@
+==514==
+==514== HEAP SUMMARY:
+==514==     in use at exit: 1,280 bytes in 3 blocks
+==514==   total heap usage: 38 allocs, 35 frees, 149,625 bytes allocated
+==514==
+==514== LEAK SUMMARY:
+==514==    definitely lost: 0 bytes in 0 blocks
+==514==    indirectly lost: 0 bytes in 0 blocks
+==514==      possibly lost: 0 bytes in 0 blocks
+==514==    still reachable: 1,280 bytes in 3 blocks
+==514==         suppressed: 0 bytes in 0 blocks
+==514== Rerun with --leak-check=full to see details of leaked memory
+==514==
+==514== For lists of detected and suppressed errors, rerun with: -s
+==514== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
